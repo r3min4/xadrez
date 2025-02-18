@@ -52,4 +52,8 @@ public class Tabuleiro {
         }
         return false;
     }
+
+    private bool IndicesInvalidos(int linha, int coluna){
+        return linha >= 0 && linha < 8 && coluna >= 0 && coluna < 8;
+    }
 }

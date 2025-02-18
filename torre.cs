@@ -5,3 +5,5 @@ public class Torre : Peca{
             return(Linha == novaLinha || Coluna == novaColuna);
         }
 }
+
+ 

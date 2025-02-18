@@ -26,3 +26,17 @@ D:\Users\20231170150025\Downloads\xadrez\xadrez\bin\Debug\net8.0-windows\xadrez.
 D:\Users\20231170150025\Downloads\xadrez\xadrez\bin\Debug\net8.0-windows\xadrez.pdb
 D:\Users\20231170150025\Downloads\xadrez\xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
 D:\Users\20231170150025\Downloads\xadrez\xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
+D:\Users\20231170150025\Downloads\xadrez-main\bin\Debug\net8.0-windows\xadrez.exe
+D:\Users\20231170150025\Downloads\xadrez-main\bin\Debug\net8.0-windows\xadrez.deps.json
+D:\Users\20231170150025\Downloads\xadrez-main\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+D:\Users\20231170150025\Downloads\xadrez-main\bin\Debug\net8.0-windows\xadrez.dll
+D:\Users\20231170150025\Downloads\xadrez-main\bin\Debug\net8.0-windows\xadrez.pdb
+D:\Users\20231170150025\Downloads\xadrez-main\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20231170150025\Downloads\xadrez-main\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+D:\Users\20231170150025\Downloads\xadrez-main\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+D:\Users\20231170150025\Downloads\xadrez-main\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+D:\Users\20231170150025\Downloads\xadrez-main\obj\Debug\net8.0-windows\xadrez.dll
+D:\Users\20231170150025\Downloads\xadrez-main\obj\Debug\net8.0-windows\refint\xadrez.dll
+D:\Users\20231170150025\Downloads\xadrez-main\obj\Debug\net8.0-windows\xadrez.pdb
+D:\Users\20231170150025\Downloads\xadrez-main\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+D:\Users\20231170150025\Downloads\xadrez-main\obj\Debug\net8.0-windows\ref\xadrez.dll

@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = xadrez
-build_property.ProjectDir = D:\Users\20231170150025\Downloads\xadrez\xadrez\
+build_property.ProjectDir = D:\Users\20231170150025\Downloads\xadrez-main\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

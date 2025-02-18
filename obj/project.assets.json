@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\20231170150025\\Downloads\\xadrez\\xadrez\\xadrez.csproj",
+      "projectUniqueName": "D:\\Users\\20231170150025\\Downloads\\xadrez-main\\xadrez.csproj",
       "projectName": "xadrez",
-      "projectPath": "D:\\Users\\20231170150025\\Downloads\\xadrez\\xadrez\\xadrez.csproj",
+      "projectPath": "D:\\Users\\20231170150025\\Downloads\\xadrez-main\\xadrez.csproj",
       "packagesPath": "D:\\Users\\20231170150025\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\20231170150025\\Downloads\\xadrez\\xadrez\\obj\\",
+      "outputPath": "D:\\Users\\20231170150025\\Downloads\\xadrez-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\20231170150025\\AppData\\Roaming\\NuGet\\NuGet.Config"
